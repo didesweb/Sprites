@@ -1,0 +1,18 @@
+div {
+background-image: url( ../images/sprite.png);
+margin: 10px;
+width: 50px;
+height: 50px;
+}
+#elemento_1 {
+background-position: 0 0 ;
+}
+#elemento_2 {
+background-position: 0 50px;
+}
+#elemento_3 {
+background-position: 50px 0;
+}
+#elemento_4 {
+background-position: 50px 50px;
+}
