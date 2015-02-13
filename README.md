@@ -1,5 +1,5 @@
-Sprites
-Sprites base
+Sprites<br>
+Sprites base<br>
 Didesweb<br>
 http://didesweb.com/<br>
 Este obra está bajo una licencia de Creative Commons Attribution 3.0<br>
